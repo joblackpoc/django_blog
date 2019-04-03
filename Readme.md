@@ -23,6 +23,8 @@
 - static files
 	* url -> /static/
 	* /home/djangonatthawut/django_blog/static -> save
+	* url -> /media/
+	* /home/djangonatthawut/django_blog/media -> save
 
 - console -> base console
 	* mkvirtualenv -> --python=/usr/bin/python3.7 env -> enter
@@ -35,7 +37,7 @@
 - files -> djangonatthawut/django_blog/blog_project -> settings.py 
 	* DEBUG - False
 	* ALLOWED_HOSTS - ['djangonatthawut.pythonanywhere.com']
-	* STATIC_ROOT - '/home/djangonatthawut/blog_project/static'
+	* STATIC_ROOT - '/home/djangonatthawut/django_blog/static'
 	* MEDIA_ROOT = '/home/djangonatthawut/django_blog/media'
 	* save
 
