@@ -18,7 +18,7 @@
 		* save
 		
 - virtualenv section
-	* /home/djangonatthawut/.virtualenvs/env -> save
+	* /home/djangonatthawut/.virtualenvs/envs -> save
 	
 - static files
 	* url -> /static/
@@ -27,7 +27,7 @@
 	* /home/djangonatthawut/django_blog/media -> save
 
 - console -> base console
-	* mkvirtualenv -> --python=/usr/bin/python3.7 env -> enter
+	* mkvirtualenv -> --python=/usr/bin/python3.7 envs -> enter
 	* pip install django
 	* pip install django-crispy-forms
 	* pip install pillow
