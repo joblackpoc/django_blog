@@ -32,7 +32,7 @@
 	* pip install django-crispy-forms
 	* pip install pillow
 	* pip show django-crispy-forms
-	* git clone https://github.com/joblackpoc/django_blog
+	* git clone https://github.com/joblackpoc/django_blog.git
 	
 - files -> djangonatthawut/django_blog/blog_project -> settings.py 
 	* DEBUG - False
